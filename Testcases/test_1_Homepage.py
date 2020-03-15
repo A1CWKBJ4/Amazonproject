@@ -11,7 +11,7 @@ from PageObject.Pages.Homepage import Homepage
 
 @pytest.mark.usefixtures('setup')
 class Test_Amazonhomepage(Homepage):
-    @pytest.mark.regression
+    @pytest.mark.homepage
     def test_TC1(self):
         Homepage.langclick(self)
         takescreenshot(self.driver, 'Languageicon')

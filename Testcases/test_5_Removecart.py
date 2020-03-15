@@ -12,7 +12,7 @@ from PageObject.Pages.Homepage import Homepage
 
 @pytest.mark.usefixtures('setup')
 class Test_REMOVECART(BasePage):
-    @pytest.mark.sanity2
+    @pytest.mark.removecart
     def test_removecart(self):
         Homepage.cartvalue(self)
         takescreenshot(self.driver, 'BeforeDeleting')

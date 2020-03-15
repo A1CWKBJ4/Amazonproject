@@ -10,7 +10,7 @@ from PageObject.Pages.Mobilepage import Mobilepage
 
 @pytest.mark.usefixtures('setup')
 class Test_ADDCART(Mobilepage):
-    @pytest.mark.sanity
+    @pytest.mark.addtocart
     def test_addtocart(self):
         Mobilepage.mobileclick(self)
         Mobilepage.hoveronmobile(self)

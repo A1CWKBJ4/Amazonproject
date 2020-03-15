@@ -2,12 +2,13 @@ from selenium import webdriver
 from PageObject.Locators.HomepageLoc import Locators
 from Testbase.test_base import BasePage
 
+
 class Homepage(BasePage):
     def langclick(self):
         self.click(Locators.LANG_ICON)
 
     def searchitem(self):
-        self.enter_text(Locators.SEARCH_BOX,'Mobile')
+        self.enter_text(Locators.SEARCH_BOX, 'Mobile')
         self.click(Locators.SEARCH_ICON)
 
     def bwh(self):
@@ -27,14 +28,4 @@ class Homepage(BasePage):
         self.click(Locators.ADDRESS_ICON)
 
     def displayalladdress(self):
-        self.elements(Locators.ADDRESS)
-
-
-
-
-
-
-
-
-
-
+        return self.elements(Locators.ADDRESS)

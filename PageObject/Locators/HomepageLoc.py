@@ -11,10 +11,8 @@ class Locators():
     CART = (By.XPATH, '//*[@id="nav-cart"]')
     LOGOUT = (By.XPATH,'//*[@id="nav-item-signout"]/span')
     ADDRESS_ICON = (By.XPATH, '//*[@id="nav-global-location-slot"]/span/a')
-    ADDRESS = (By.XPATH, "//*[@deliverydestinationtype='CUSTOMER_ADDRESS']")
-
-
-
-
+    ADDRESS = ("//*[@deliverydestinationtype='CUSTOMER_ADDRESS']")
+    SWITCH_ACCOUNTS = (By.XPATH, '//*[@id="nav-item-switch-account"]/span')
+    ADD_ACCOUNT = (By.XPATH, '//*[@id="cvf-account-switcher-add-accounts-link"]/div[2]/div/div[2]/div/div[2]/div/div')
 
 

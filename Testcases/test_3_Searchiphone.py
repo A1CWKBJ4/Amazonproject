@@ -12,7 +12,7 @@ from PageObject.Pages.Mobilepage import Mobilepage
 
 @pytest.mark.usefixtures('setup')
 class Test_SearchIphone(Mobilepage):
-    @pytest.mark.smoke
+    @pytest.mark.searchphone
     def test_TC04(self):
         Mobilepage.mobileclick(self)
         self.driver.execute_script("window.scrollTo(0, 500)")

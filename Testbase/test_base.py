@@ -43,8 +43,8 @@ class BasePage():
         element = WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located(by_locator))
         ActionChains(self.driver).move_to_element(element).perform()
 
-    def elements(self,by_locator):
-        eles= WebDriverWait(self.driver, 10).until(EC.visibility_of_all_elements_located(by_locator))
+    def elements(self,path):
+        eles= self.driver.find_elements_by_xpath(path)
         return eles
 
 

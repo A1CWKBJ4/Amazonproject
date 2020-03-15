@@ -1,11 +1,6 @@
 import time
-
 import pytest
 from selenium import webdriver
-from selenium.webdriver import ActionChains
-from selenium.webdriver.support.wait import WebDriverWait as EC, WebDriverWait
-
-from PageObject.Pages.Loginpage import Loginpage
 
 
 
@@ -13,6 +8,7 @@ from PageObject.Pages.Loginpage import Loginpage
 def setup(request):
     print("initiating chrome driver")
     driver = webdriver.Chrome("C:/Users/LADDUGOPAL/Desktop/chromedriver.exe") #if not added in PATH
+    driver.implicitly_wait(10)
     driver.get("http:www.amazon.in")
     driver.maximize_window()
     driver.find_element_by_id('nav-link-accountList').click()

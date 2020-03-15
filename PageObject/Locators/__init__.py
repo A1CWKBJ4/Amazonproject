@@ -1,3 +1,4 @@
-from . import HomepageLoc,LoginpageLoc,RegpageLoc,SearchpdLoc
-from . import MobileLoc
+from . import HomepageLoc,LoginpageLoc,SearchpdLoc
+from . import MobileLoc , ShoppingcartLoc
+
 

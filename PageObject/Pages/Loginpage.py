@@ -1,6 +1,5 @@
 from selenium import webdriver
 from PageObject.Locators.LoginpageLoc import Locators
-
 from Testbase.test_base import BasePage
 
 class Loginpage(BasePage):

@@ -10,7 +10,7 @@ from PageObject.Pages.Homepage import Homepage
 
 @pytest.mark.usefixtures('setup')
 class Test_Bwhistory(Homepage):
-    @pytest.mark.regression
+    @pytest.mark.history
     def test_TC03(self):
         Homepage.bwh(self)
         takescreenshot(self.driver,'Top Searched Products')
