@@ -17,5 +17,4 @@ class Test_SELECTADDRESS(BasePage):
         takescreenshot(self.driver, 'All the lists of address')
         for i in Homepage.displayalladdress(self):
             print(i.get_attribute('aria-label'))
-
-            
+            print('This Test cases gets completed')
