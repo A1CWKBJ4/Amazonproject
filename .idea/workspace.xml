@@ -3,29 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="466f4a06-265f-49c9-92cb-d1b2697cd39c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Locators/HomepageLoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Locators/HomepageLoc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Locators/LoginpageLoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Locators/LoginpageLoc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Locators/ShoppingcartLoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Locators/ShoppingcartLoc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Locators/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Locators/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Pages/Homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Pages/Homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Pages/Loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Pages/Loginpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Pages/Registrationpage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Pages/Regpage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Pages/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snapshots/Addded into cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snapshots/All the lists of address.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snapshots/BeforeDeleting.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snapshots/Searched Product.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testbase/test_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testbase/test_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/test_1_Homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_1_Homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/test_2_browsinghistory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_2_browsinghistory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/test_3_Searchiphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_3_Searchiphone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/test_4_Addtocart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_4_Addtocart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testcases/test_5_Removecart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_5_Removecart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/test_6_Registration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/test_7_Selectaddress.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_7_Selectaddress.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
