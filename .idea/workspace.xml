@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="466f4a06-265f-49c9-92cb-d1b2697cd39c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Datareader/Registration_Iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datareader/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcases/test_6_Registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testdata/Registration.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/Locators/HomepageLoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Locators/HomepageLoc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/Locators/LoginpageLoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Locators/LoginpageLoc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/Pages/Homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Pages/Homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/Pages/Loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Pages/Loginpage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snapshots/BeforeDeleting.png" beforeDir="false" afterPath="$PROJECT_DIR$/Snapshots/BeforeDeleting.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testcases/test_5_Removecart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_5_Removecart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/test_7_Selectaddress.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_7_Selectaddress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/screenshot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/screenshot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +35,9 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1YbFiE7Ywnobpvtk7E7E1SFjDfa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,16 +46,61 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Amazon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Testdata" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LADDUGOPAL\PycharmProjects\AmazonA\Testdata" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\LADDUGOPAL\PycharmProjects\AmazonA\Utilities" />
       <recent name="C:\Users\LADDUGOPAL\PycharmProjects\AmazonA\Testbase" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_1_Homepage">
+  <component name="RunManager" selected="Python.test_6_Registration">
+    <configuration name="Registration_Iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmazonA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datareader" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\LADDUGOPAL\PycharmProjects\AmazonA\Datareader\Registration_Iterator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="screenshot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmazonA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utilities" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utilities/screenshot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_1_Homepage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AmazonA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +114,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\LADDUGOPAL\PycharmProjects\AmazonA\Testcases\test_1_Homepage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_6_Registration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmazonA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testcases/test_6_Registration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,8 +229,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_6_Registration" />
+        <item itemvalue="Python.Registration_Iterator" />
+        <item itemvalue="Python.screenshot" />
         <item itemvalue="Python.test_1_Homepage" />
-        <item itemvalue="Python.test_base" />
         <item itemvalue="Python.test_base" />
       </list>
     </recent_temporary>
@@ -168,41 +251,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="72" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584383577768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="72" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584383577768" />
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584297473436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584297473436" />
-    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1583207144705">
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1584383403979">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583207144705" />
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1583256384717">
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584383403979" />
+    <state width="1344" height="181" key="GridCell.Tab.0.bottom" timestamp="1584467546921">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583256384717" />
-    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1583256384716">
+    <state width="1344" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584467546921" />
+    <state width="1344" height="181" key="GridCell.Tab.0.center" timestamp="1584467546920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583256384716" />
-    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1583256384715">
+    <state width="1344" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584467546920" />
+    <state width="1344" height="181" key="GridCell.Tab.0.left" timestamp="1584467546920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583256384715" />
-    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1583256384716">
+    <state width="1344" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584467546920" />
+    <state width="1344" height="181" key="GridCell.Tab.0.right" timestamp="1584467546920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583256384716" />
+    <state width="1344" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584467546920" />
     <state x="263" y="98" key="IDE.errors.dialog" timestamp="1584296631272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="98" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1584296631272" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1584280161324">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1584383701419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584280161324" />
-    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584299018672">
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584383701419" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584467882023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584299018672" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584467882023" />
   </component>
 </project>

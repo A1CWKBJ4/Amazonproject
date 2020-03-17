@@ -13,6 +13,6 @@ class Locators():
     ADDRESS_ICON = (By.XPATH, '//*[@id="nav-global-location-slot"]/span/a')
     ADDRESS = ("//*[@deliverydestinationtype='CUSTOMER_ADDRESS']")
     SWITCH_ACCOUNTS = (By.XPATH, '//*[@id="nav-item-switch-account"]/span')
-    ADD_ACCOUNT = (By.XPATH, '//*[@id="cvf-account-switcher-add-accounts-link"]/div[2]/div/div[2]/div/div[2]/div/div')
+
 
 

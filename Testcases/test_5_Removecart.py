@@ -28,7 +28,7 @@ class Test_REMOVECART(BasePage):
         for i in Shoppingcart.allelements(self):
              print(i.get_attribute('aria-label'))
              print('This is the end of the program')
-             
+
 
 
 

@@ -7,6 +7,9 @@ class Homepage(BasePage):
     def langclick(self):
         self.click(Locators.LANG_ICON)
 
+    def hoveronhello(self):
+        self.hover_to(Locators.SIGN_IN)
+
     def searchitem(self):
         self.enter_text(Locators.SEARCH_BOX, 'Mobile')
         self.click(Locators.SEARCH_ICON)
@@ -29,3 +32,8 @@ class Homepage(BasePage):
 
     def displayalladdress(self):
         return self.elements(Locators.ADDRESS)
+
+    def switchaccount(self):
+        self.click(Locators.SWITCH_ACCOUNTS)
+
+

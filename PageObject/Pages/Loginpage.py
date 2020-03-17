@@ -1,6 +1,8 @@
 from selenium import webdriver
 from PageObject.Locators.LoginpageLoc import Locators
 from Testbase.test_base import BasePage
+from Datareader.Registration_Iterator import Registration
+
 
 class Loginpage(BasePage):
 
@@ -18,3 +20,17 @@ class Loginpage(BasePage):
 
     def clickonsubmit(self):
         self.click(Locators.SUBMIT)
+
+    def addaccount(self):
+        self.click(Locators.ADD_ACCOUNT)
+
+    def createaccount(self):
+        self.click(Locators.CREATE_ACCOUNT)
+
+    def name(self,i):
+        self.clear(Locators.NAME)
+        self.enter_text(Locators.NAME,Registration.yourname(self,i))
+
+    def cell(self,i):
+        self.clear(Locators.NUMBER)
+        self.enter_text(Locators.NUMBER,Registration.mobile(self,i))
