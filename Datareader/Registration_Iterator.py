@@ -10,13 +10,13 @@ class Registration:
 
 
     def mobile(self,i):
-        return data["Mobile"][i]
+        return str(data["Mobile"][i])
 
     def email(self,i):
         return data["Email"][i]
 
     def password(self,i):
-        return data["Password"][i]
+        return str(data["Password"][i])
 
 
     def rowscount(self):

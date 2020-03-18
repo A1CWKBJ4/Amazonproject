@@ -16,9 +16,15 @@ class Test_REGISTRAION(BasePage):
         Loginpage.addaccount(self)
         Loginpage.createaccount(self)
         time.sleep(10)
-        for i in range(3):
+        for i in range(Registration.rowscount(self)):
             Loginpage.name(self,i)
-            Loginpage.cell(self,i)
+            Loginpage.cell(self, i)
+            Loginpage.email(self,i)
+            Loginpage.pwd(self,i)
+            takescreenshot(self.driver, "data+ i")
+
+
+        time.sleep(5)
 
 
 

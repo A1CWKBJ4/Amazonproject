@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="466f4a06-265f-49c9-92cb-d1b2697cd39c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Datareader/Registration_Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datareader/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testcases/test_6_Registration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testdata/Registration.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Locators/HomepageLoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Locators/HomepageLoc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Locators/LoginpageLoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Locators/LoginpageLoc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Pages/Homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Pages/Homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datareader/Registration_Iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datareader/Registration_Iterator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PageObject/Pages/Loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Pages/Loginpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snapshots/BeforeDeleting.png" beforeDir="false" afterPath="$PROJECT_DIR$/Snapshots/BeforeDeleting.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/test_5_Removecart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_5_Removecart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testcases/test_7_Selectaddress.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_7_Selectaddress.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/screenshot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/screenshot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/test_6_Registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_6_Registration.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,22 +252,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584383403979" />
-    <state width="1344" height="181" key="GridCell.Tab.0.bottom" timestamp="1584467546921">
+    <state width="1344" height="181" key="GridCell.Tab.0.bottom" timestamp="1584467956853">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584467546921" />
-    <state width="1344" height="181" key="GridCell.Tab.0.center" timestamp="1584467546920">
+    <state width="1344" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584467956853" />
+    <state width="1344" height="181" key="GridCell.Tab.0.center" timestamp="1584467956853">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584467546920" />
-    <state width="1344" height="181" key="GridCell.Tab.0.left" timestamp="1584467546920">
+    <state width="1344" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584467956853" />
+    <state width="1344" height="181" key="GridCell.Tab.0.left" timestamp="1584467956852">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584467546920" />
-    <state width="1344" height="181" key="GridCell.Tab.0.right" timestamp="1584467546920">
+    <state width="1344" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584467956852" />
+    <state width="1344" height="181" key="GridCell.Tab.0.right" timestamp="1584467956853">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584467546920" />
+    <state width="1344" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584467956853" />
     <state x="263" y="98" key="IDE.errors.dialog" timestamp="1584296631272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

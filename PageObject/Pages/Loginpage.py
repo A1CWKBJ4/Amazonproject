@@ -34,3 +34,12 @@ class Loginpage(BasePage):
     def cell(self,i):
         self.clear(Locators.NUMBER)
         self.enter_text(Locators.NUMBER,Registration.mobile(self,i))
+
+    def email(self,i):
+        self.clear(Locators.EMAIL)
+        self.enter_text(Locators.EMAIL, Registration.email(self, i))
+
+    def pwd(self,i):
+        self.clear(Locators.PASSWORD)
+        self.enter_text(Locators.PASSWORD, Registration.password(self,i))
+
